@@ -15,6 +15,6 @@ if (num_3 > Max)
 Max = num_3;
 }
 
-Console.WriteLine("Максимальное число:" + Max);
+Console.WriteLine("Максимальное число: " + Max);
 
 Console.ReadKey();
