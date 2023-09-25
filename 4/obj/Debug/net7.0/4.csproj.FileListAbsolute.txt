@@ -1,0 +1,14 @@
+H:\Учеба\C#\3\4\bin\Debug\net7.0\4.exe
+H:\Учеба\C#\3\4\bin\Debug\net7.0\4.deps.json
+H:\Учеба\C#\3\4\bin\Debug\net7.0\4.runtimeconfig.json
+H:\Учеба\C#\3\4\bin\Debug\net7.0\4.dll
+H:\Учеба\C#\3\4\bin\Debug\net7.0\4.pdb
+H:\Учеба\C#\3\4\obj\Debug\net7.0\4.GeneratedMSBuildEditorConfig.editorconfig
+H:\Учеба\C#\3\4\obj\Debug\net7.0\4.AssemblyInfoInputs.cache
+H:\Учеба\C#\3\4\obj\Debug\net7.0\4.AssemblyInfo.cs
+H:\Учеба\C#\3\4\obj\Debug\net7.0\4.csproj.CoreCompileInputs.cache
+H:\Учеба\C#\3\4\obj\Debug\net7.0\4.dll
+H:\Учеба\C#\3\4\obj\Debug\net7.0\refint\4.dll
+H:\Учеба\C#\3\4\obj\Debug\net7.0\4.pdb
+H:\Учеба\C#\3\4\obj\Debug\net7.0\4.genruntimeconfig.cache
+H:\Учеба\C#\3\4\obj\Debug\net7.0\ref\4.dll
